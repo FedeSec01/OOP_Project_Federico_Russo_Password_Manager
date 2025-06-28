@@ -1,0 +1,11 @@
+giu 28, 2025 8:52:39 PM com.securevault.MainApp main
+INFORMAZIONI: === AVVIO SECUREVAULT ===
+giu 28, 2025 8:52:46 PM java.lang.Shutdown logRuntimeExit
+BUONO: Runtime.exit() called with status: 143
+java.lang.Throwable: Runtime.exit(143)
+	at java.base/java.lang.Shutdown.logRuntimeExit(Unknown Source)
+	at java.base/java.lang.Shutdown.exit(Unknown Source)
+	at java.base/java.lang.Terminator$1.handle(Unknown Source)
+	at java.base/jdk.internal.misc.Signal$1.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+

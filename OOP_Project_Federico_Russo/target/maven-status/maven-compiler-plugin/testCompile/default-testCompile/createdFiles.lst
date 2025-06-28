@@ -1,0 +1,6 @@
+com/securevault/repository/VaultRepositoryTest.class
+com/securevault/composite/CompositePatternTest.class
+com/securevault/composite/CompositeIteratorTest.class
+com/securevault/util/InputSanitizerTest.class
+com/securevault/factory/CredentialFactoryTest.class
+com/securevault/security/CryptoManagerTest.class
